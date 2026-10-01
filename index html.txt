@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ComicCraft - AI Comic Story Creator</title>
+
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #f4f4f4;
+            text-align: center;
+            margin: 0;
+            padding: 40px;
+        }
+
+        .container {
+            max-width: 700px;
+            margin: auto;
+            background: white;
+            padding: 30px;
+            border-radius: 15px;
+            box-shadow: 0 4px 15px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            color: #6c3cff;
+        }
+
+        textarea {
+            width: 90%;
+            height: 120px;
+            padding: 15px;
+            margin: 15px 0;
+            border-radius: 10px;
+            border: 1px solid #ccc;
+        }
+
+        button {
+            background: #6c3cff;
+            color: white;
+            border: none;
+            padding: 12px 25px;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 16px;
+        }
+
+        button:hover {
+            background: #5125cc;
+        }
+
+        #result {
+            margin-top: 25px;
+            text-align: left;
+            padding: 15px;
+            background: #f0edff;
+            border-radius: 10px;
+        }
+    </style>
+</head
